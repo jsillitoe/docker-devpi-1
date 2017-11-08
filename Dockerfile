@@ -1,5 +1,5 @@
 #
-FROM python:3.5-alpine
+FROM python:3.6
 MAINTAINER https://github.com/muccg/
 
 ARG ARG_DEVPI_SERVER_VERSION
